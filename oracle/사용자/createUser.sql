@@ -1,0 +1,1 @@
+CREATE USER 사용자명 IDENTIFIED BY 비밀번호;
