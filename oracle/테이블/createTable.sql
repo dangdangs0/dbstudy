@@ -4,5 +4,3 @@ CREATE TABLE topic(
 	description VARCHAR2(4000) NULL,
 	created DATE NOT NULL
 );
-
-
